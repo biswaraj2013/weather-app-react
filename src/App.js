@@ -11,8 +11,6 @@ function App() {
         <Route path='/' element={<FirstScreen />} />
         <Route path='weather-container' element={<WeatherContainer />} />
       </Routes>
-      
-
     </>
   );
 }
